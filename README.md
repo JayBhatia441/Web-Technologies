@@ -10,19 +10,6 @@
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Event Web App to Locate Events - [Website Link](https://hw6-python-5799.wl.r.appspot.com/)
 #### Technologies used - _Python, Flask, JSON, AJAX, HTML/CSS, Jquery_
 
@@ -31,7 +18,7 @@
 * Implemented frontend using HTML, CSS, JavaScript, jQuery, DOM, and AJAX.
 * Hosted the application on Google Cloud Platform
 
-
+---
 
 ### Event Web App to Locate Events - [Website Link](https://hw8webtechangular.wm.r.appspot.com/hw8/search)
 #### Technologies used - _Angular, Typescript, Node.JS, JSON, Bootsrap_
@@ -42,7 +29,7 @@
 * Established smooth communication between frontend and backend using HttpClientModule.
 * Hosted the application on Google Cloud Platform
 
-
+---
 
 
 ### iOS Application to Locate Events - [Video Link](https://youtu.be/sF5iWImSK28)
