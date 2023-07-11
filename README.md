@@ -7,7 +7,7 @@
 * Built individual event Tabs which help displayed detailed information about the event, venue. Seamlessly displayed artist detail view with the help of SptifyApi.
 * A one stop application which helps users discover events nearby and also save it later as favorites.
 
-
+---
 
 
 
